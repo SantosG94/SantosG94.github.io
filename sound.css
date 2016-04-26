@@ -1,0 +1,30 @@
+body{
+	background-color: #000;
+	color: #fff;
+	font-family: Arial;
+}
+
+img {
+	float: right;
+}
+
+li a:hover {
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+nav {
+	background-color: #fff;
+	padding: 10px;
+}
+
+nav ul {
+	list-style-type: none;
+	text-align: center;
+}
+
+nav ul li {
+	display: inline-block;
+	margin: 0 5px;
+	font-size: 20px;
+}
